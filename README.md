@@ -18,6 +18,8 @@ the latent modalities. Employing the latent modalities of different classes, the
 model significantly outperforms state-of-the-art baseline methods。
 
 
+The code will be published after the paper is received！
+
 Acknowlegement
 
 Part of the code is borrowed from BalaGAN [https://github.com/orpatashnik/BalaGAN], DCL(https://github.com/chingyaoc/DCL).
